@@ -16,6 +16,7 @@ Paper : Real-time Detection of AI-Generated Speech for DeepFake Voice Conversion
 - datasets/csv : feature based dataset (+augment)
 - datasets/images/spectrogram : image dataset
 - result : cw, fgsm results
+- reference : ref paper (pdf)
 
   
 ** 하기 폴더는 용량문제로 github에 적재하지 않음, 캐글 원천 데이터셋 참고
