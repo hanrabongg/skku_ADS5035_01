@@ -19,8 +19,8 @@ Paper : Real-time Detection of AI-Generated Speech for DeepFake Voice Conversion
 - reference : ref paper (pdf)
 
   
-** 하기 폴더는 용량문제로 github에 적재하지 않음, 캐글 원천 데이터셋 참고
-- datasets/KAGGLE/AUDIO/FAKE
-- datasets/KAGGLE/AUDIO/REAL
+** 하기 폴더 wav 파일은 용량문제로 github에 적재하지 않음, 캐글 원천 데이터셋 참고
+- datasets/KAGGLE/AUDIO/FAKE (캐글 데이터)
+- datasets/KAGGLE/AUDIO/REAL (캐글 데이터)
 - datasets/KAGGLE/AUDIO/data_split/FAKE (data_split_feature_extracting.ipynb 수행 결과 저장)
 - datasets/KAGGLE/AUDIO/data_split/REAL (data_split_feature_extracting.ipynb 수행 결과 저장)
